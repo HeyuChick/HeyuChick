@@ -1,4 +1,4 @@
-### Hi there 👋
+### 会者定离，一期一祈。
 
 <!--
 **HeyuChick/HeyuChick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
